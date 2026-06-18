@@ -23,7 +23,7 @@ Bot inteligente do WhatsApp que classifica intenções e automatiza respostas us
 
 ### 1. Clone o repositório
 ```bash
-git clone <seu-repo>
+git clone https://github.com/Italo-Fernando/Whatsapp_automation
 cd Whatsapp_automation/whatsapp-bot
 ```
 
@@ -168,7 +168,7 @@ node src/index.js
 | `BUSINESS_TYPE` | Tipo de negócio | ✅ |
 | `BUSINESS_HOURS` | Horário de funcionamento | ✅ |
 | `ATTENDANT_NAME` | Nome do atendente | ✅ |
-| `PORT` | Porta do servidor | ❌ (padrão: 3000) |
+| `PORT` | Porta do servidor | (padrão: 3000) |
 
 ## 🐛 Troubleshooting
 
@@ -192,11 +192,3 @@ node src/index.js
 - [Groq API](https://console.groq.com)
 - [Google Sheets API](https://developers.google.com/sheets/api)
 - [Express.js](https://expressjs.com)
-
-## 📄 Licença
-
-ISC
-
-## 👨‍💻 Autor
-
-Desenvolvido com ❤️
