@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+*.log
+logs/
+credentials.json
+coletor-empresas.json
+*.key
+*.pem
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.cache/

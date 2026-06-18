@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+*/.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+
+# Credentials & Sensitive Config
+credentials.json
+coletor-empresas.json
+sheets_config.json
+*.key
+*.pem
+*.json.bak
+
+# Temporary
+tmp/
+temp/
+.cache/
+
+# Google Cloud
+.config/gcloud/
